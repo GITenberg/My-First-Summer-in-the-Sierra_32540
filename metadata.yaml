@@ -1,0 +1,41 @@
+_repo: My-First-Summer-in-the-Sierra_32540
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Muir, John
+    birthdate: 1838
+    deathdate: 1914
+    gutenberg_agent_id: '180'
+    url: http://www.gutenberg.org/2009/agents/180
+    wikipedia: http://en.wikipedia.org/wiki/John_Muir
+description: <p>From the photographer who brought Thoreau's <I>Walden</I> and <I>Cape
+  Cod</I> to life comes a new work combining classic literature with brand-new photography.
+  This time, Scot Miller takes on the seminal work of John Muir, <I>My First Summer
+  in the Sierra.</I> The book details Muir's first extended trip to the Sierra Nevada
+  in what is now Yosemite National Park, a landscape that entranced him immediately
+  and had a profound effect on his life. The towering waterfalls, natural rock formations,
+  and abundant plant and animal life helped Muir develop his views of the natural
+  world, views that would eventually lead him to push for the creation of the national
+  parks.</p><p><I>My First Summer in the Sierra</I> is illustrated with Miller's stunning
+  photographs, showcasing the dramatic landscape of the High Sierra plus John Muir's
+  illustrations from the original edition and several previously unpublished illustrations
+  from his 1911 manuscript. The publication of <I>My First Summer in the...
+gutenberg_issued: '2010-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sierra Nevada (Calif. and Nev.)'
+- !lcsh 'Natural history -- Sierra Nevada (Calif. and Nev.)'
+- !lcsh 'Naturalists -- United States -- Biography'
+- !lcc 'QH'
+- !lcsh 'Muir, John, 1838-1914'
+title: My First Summer in the Sierra
+url: http://www.gutenberg.org/ebooks/32540
